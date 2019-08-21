@@ -1,2 +1,2 @@
-# Algorithms
-It had all algorithms used in JS
+# Algorithms and DataStructure
+It has fundamental algorithms and datastructure used in JS
